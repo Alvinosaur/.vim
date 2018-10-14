@@ -1,5 +1,5 @@
 # .vim
-My Vim configuration. Works with Vim, but some plugins require [Neovim][neovim].
+My Vim configuration. Forked from [aspyrx/.vim](https://github.com/aspyrx/.vim)
 
 ### Installation
 1. Clone the repository: `git clone https://github.com/aspyrx/.vim ~/.vim`
