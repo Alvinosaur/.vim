@@ -2,7 +2,7 @@
 My Vim configuration. Forked from [aspyrx/.vim](https://github.com/aspyrx/.vim)
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/aspyrx/.vim ~/.vim`
+1. Clone the repository: `git clone https://github.com/Alvinosaur/.vim ~/.vim`
 2. Symlink `~/.vimrc` to the `.vimrc` in this repository:
    `ln -s ~/.vim/.vimrc ~/.vimrc`
 3. `cd ~/.vim`
